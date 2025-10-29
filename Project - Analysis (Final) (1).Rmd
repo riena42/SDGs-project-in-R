@@ -1,5 +1,5 @@
 ---
-title: "STA 130 - Project"
+title: "Project"
 author: "Riena Asakawa, Alfizza Khalfani Kenaz"
 output:
   pdf_document: default
@@ -1609,6 +1609,7 @@ As above, Hypothesis Tests for SDG1 and 4 have Type II error, meaning, we fail t
   
 Conclusion:
 Asia has higher mean rate of progress in SDG1 and SDG4 whereas Africa has higher mean rate of progress in SDG3. In summary, we predict that Asia will progress more toward SDGs in the future. 
+
 
 
 
