@@ -1,6 +1,6 @@
-# STA 130 - Final Project
+# Final Project
 
-This repository contains the data analysis project for STA 130, completed by Riena Asakawa and Alfizza Khalfani Kenaz. The project focuses on cleaning, wrangling, and analyzing datasets related to global indicators, such as country codes and Sustainable Development Goals (SDGs).
+This repository contains the data analysis project, completed by Riena Asakawa and Alfizza Khalfani Kenaz. The project focuses on cleaning, wrangling, and analyzing datasets related to global indicators, such as country codes and Sustainable Development Goals (SDGs).
 
 ## Description
 
